@@ -1,7 +1,15 @@
+Week 1
+
+---
 Learning Activities & Resources
 
-This week I setup a child theme based off the WordPress Twenty Twenty theme, 
-and studied some of the LinkedIn Learning courses after finishing the practical
-to ensure that I learned everything that I needed to know about child themes, 
-which I think may be useful for the group assignment.
+I watched tutorials on youtube and studied on LinkedIn. 
 
+https://getbootstrap.com/docs/5.3/components/navbar/
+https://www.youtube.com/watch?v=eow125xV5-c
+https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/understanding-user-experience-ux-and-website-planning?u=2223545
+----
+
+Estimated Hours
+I spent about 3 hours on this subject.
+----
