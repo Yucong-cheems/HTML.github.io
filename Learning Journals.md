@@ -17,9 +17,16 @@ I spent about 3 hours on this subject.
 ---
 ### Content Insights
 
-
+This is the first time I know about Bootstrap and it is literally a powerful tool that can help me design a good-looking web. 
+As a popular CSS framework, it can help me quickly build responsive websites. 
+By learning Bootstrap, I have mastered a common front-end development skill.
 
 ---
 ### Career/Employability/Learning Insights
+
+I used to learn some knowledge of HTML and CSS and in the LinkedIn Learning course, 
+I discovered some content that I had not been exposed to before, which was a good supplement for me.
+I think mastering a front-end framework like Bootstrap will be very beneficial to my job prospects. 
+Many companies are looking for developers with these skills because they can greatly shorten the development cycle of websites.
 
 
