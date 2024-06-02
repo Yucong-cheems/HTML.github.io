@@ -29,8 +29,10 @@ I discovered some content that I had not been exposed to before, which was a goo
 I think mastering a front-end framework like Bootstrap will be very beneficial to my job prospects. 
 Many companies are looking for developers with these skills because they can greatly shorten the development cycle of websites.
 
+###  
 
-### Week 2
+
+Week 2
 
 ---
 ### Learning Activities & Resources
