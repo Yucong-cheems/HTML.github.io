@@ -50,16 +50,15 @@ I spent about 4 hours on this subject.
 ---
 ### Content Insights
 
-This is the first time I know about Bootstrap and it is literally a powerful tool that can help me design a good-looking web. 
-As a popular CSS framework, it can help me quickly build responsive websites. 
-By learning Bootstrap, I have mastered a common front-end development skill.
+This week, I delved into Joomla for the first time, learning about its features and how it operates as a CMS. 
+Joomla is quite popular and it offers powerful functionality for building dynamic websites, and the tutorials from YouTuBe provide a good foundation. 
+However, I prefer using InfinityFree as my CMS due to its simplicity and ease of use, and most importantly free!
 
 ---
 ### Career/Employability/Learning Insights
 
-I used to learn some knowledge of HTML and CSS and in the LinkedIn Learning course, 
-I discovered some content that I had not been exposed to before, which was a good supplement for me.
-I think mastering a front-end framework like Bootstrap will be very beneficial to my job prospects. 
-Many companies are looking for developers with these skills because they can greatly shorten the development cycle of websites.
+Exploring Joomla has broadened my understanding of different CMS options available in the market. 
+Despite my preference for InfinityFree, the knowledge gained from Joomla helped me improve my CMS skills as a developer. 
+I might consider using Joomla for my future work.
 
 
