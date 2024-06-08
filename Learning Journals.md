@@ -61,4 +61,37 @@ Exploring Joomla has broadened my understanding of different CMS options availab
 Despite my preference for InfinityFree, the knowledge gained from Joomla helped me improve my CMS skills as a developer. 
 I might consider using Joomla for my future work.
 
+---
+
+
+### Week 3  
+
+### Learning Activities & Resources
+
+I watched WordPress beginner tutorials on YouTube and studied on LinkedIn. 
+
+https://www.linkedin.com/learning/wordpress-workflows-2 
+https://www.youtube.com/watch?v=kYY88h5J86A
+https://wordpress.org/support/article/new-to-wordpress-where-to-start/
+
+---
+### Estimated Hours
+
+I spent about 3 hours on this subject.
+
+---
+### Content Insights
+
+This week, I dived into WordPress site, exploring its user-friendly interface and powerful customization options. 
+Although I didn't create a WordPress site due to the costs, I gained a thorough understanding of its features and how it can be used for building websites. 
+Instead, I choose to continue my project on InfinityFree.
+
+---
+### Career/Employability/Learning Insights
+
+Learning about WordPress has broadened my knowledge of different CMS platforms, even though I chose not to use it for my project. 
+This experience enhances my versatility as a developer, as familiarity with WordPress is highly valued in the job market. 
+I notice many companies use WordPress for their websites, and knowing how to navigate its features can be a significant asset. 
+Furthermore, the group-formation task allowed me to collaborate effectively with team members, improving my teamwork and communication skills.
+
 
