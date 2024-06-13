@@ -94,4 +94,36 @@ This experience enhances my versatility as a developer, as familiarity with Word
 I notice many companies use WordPress for their websites, and knowing how to navigate its features can be a significant asset. 
 Furthermore, the group-formation task allowed me to collaborate effectively with team members, improving my teamwork and communication skills.
 
+---
+
+
+### Week 4  
+
+### Learning Activities & Resources
+
+I focused on understanding development and deployment workflows, particularly how to set up a local development environment and deploy a site with a database.
+
+Mapping the Modern Web Design Process
+https://www.linkedin.com/learning/
+Version Control for Everyone
+https://www.linkedin.com/learning/version-control-for-everyone-2
+Migrating WordPress with WP Migrate DB and DB pro
+https://www.linkedin.com/learning/migrating-wordpress-with-wp-migrate-db-and-db-pro
+
+---
+### Estimated Hours
+
+I spent about 5 hours on this subject.
+
+---
+### Content Insights
+
+This week, I focused on setting up a local development environment and understanding the process of deploying a site with a database. The tutorials on LinkedIn Learning provided a good overview of modern web design processes, version control, and database migration. However, I encountered difficulties with the database setup on my site.pro project.
+
+To address this, I experimented with XAMPP to start the Apache and MySQL services, to understand how to run a dynamic site with a database on localhost.
+
+---
+### Career/Employability/Learning Insights
+
+Learning about local development environments and deployment workflows is crucial for any web developer. These skills ensure that I can work efficiently in different environments and manage site deployments effectively. Although I faced challenges with the database setup, the experience taught me valuable problem-solving skills and resilience. 
 
