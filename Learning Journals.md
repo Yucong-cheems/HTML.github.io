@@ -127,3 +127,34 @@ To address this, I experimented with XAMPP to start the Apache and MySQL service
 
 Learning about local development environments and deployment workflows is crucial for any web developer. These skills ensure that I can work efficiently in different environments and manage site deployments effectively. Although I faced challenges with the database setup, the experience taught me valuable problem-solving skills and resilience. 
 
+---
+
+
+### Week 5  
+
+### Learning Activities & Resources
+
+I focused on learning how to develop WordPress child themes and apply customizations.
+
+WordPress: Building Child Themes
+https://www.linkedin.com/learning/wordpress-building-child-themes-3
+Design Responsive WordPress Themes in the Browser
+https://www.linkedin.com/learning/learning-responsive-web-design-in-the-browser
+
+---
+### Estimated Hours
+
+I spent about 5 hours on this subject.
+
+---
+### Content Insights
+
+This week, I learned how to create and customize WordPress child themes. Because i use Infinityfree so i chose to install the WordPress script with Softaculous installer. The tutorials on LinkedIn Learning were particularly helpful in explaining the concepts and practical steps involved. I created a child theme for my existing WordPress site and implemented at least six visible customizations.
+
+The process of developing a child theme involved creating a new folder in the themes directory, setting up a style.css file to reference the parent theme, and creating a functions.php file to enqueue the styles. I also used the browser's inspector tool to test changes live before applying them to my CSS file.
+
+---
+### Career/Employability/Learning Insights
+
+Learning about local development environments and deployment workflows is crucial for any web developer. These skills ensure that I can work efficiently in different environments and manage site deployments effectively. Although I lack coding skills, the experience taught me more problem-solving skills and resilience. 
+
