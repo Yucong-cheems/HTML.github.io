@@ -158,3 +158,32 @@ The process of developing a child theme involved creating a new folder in the th
 
 Learning about local development environments and deployment workflows is crucial for any web developer. These skills ensure that I can work efficiently in different environments and manage site deployments effectively. Although I lack coding skills, the experience taught me more problem-solving skills and resilience. 
 
+---
+
+
+### Week 7  
+
+### Learning Activities & Resources
+
+I focused on learning PHP programming and group project.
+
+Introducing PHP
+https://www.linkedin.com/learning/learning-php-2
+PHP with MySQL Essential Training
+https://www.linkedin.com/learning/
+
+---
+### Estimated Hours
+
+I spent about 3 hours on this subject.
+
+---
+### Content Insights
+
+This week, I delved into PHP programming and its applications in web development. The LinkedIn Learning resources provided a comprehensive introduction to PHP and its integration with MySQL databases. I learned about PHP syntax, control structures, functions, and how to include external files for better code organization.
+
+---
+### Career/Employability/Learning Insights
+
+Learning PHP has been a significant step forward in my web development journey. PHP is widely used in the industry for server-side scripting and dynamic web applications, making it a valuable skill for my career. Understanding how to integrate PHP with MySQL databases also enhances my ability to create data-driven websites, a common requirement in many web development roles.
+
