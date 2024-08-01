@@ -187,3 +187,35 @@ This week, I delved into PHP programming and its applications in web development
 
 Learning PHP has been a significant step forward in my web development journey. PHP is widely used in the industry for server-side scripting and dynamic web applications, making it a valuable skill for my career. Understanding how to integrate PHP with MySQL databases also enhances my ability to create data-driven websites, a common requirement in many web development roles.
 
+---
+
+
+### Week 8  
+
+### Learning Activities & Resources
+
+This week, I conducted a learning experiment to test a hypothesis about improving my learning efficiency.
+
+Learning Resources:
+• WordPress: Building Themes from Scratch Using Underscores
+https://www.linkedin.com/learning/wordpress-building-themes-from-scratch-usingunderscores-2
+or
+• WordPress: Building Progressive Themes with WP Rig
+https://www.linkedin.com/learning/wordpress-building-progressive-themes-with-wp-rig-2
+• DRY Development
+https://www.linkedin.com/learning/wordpress-developer-tips-dry-development
+
+---
+### Estimated Hours
+
+I spent about 4 hours on this subject.
+
+---
+### Content Insights
+
+The Pomodoro Technique significantly improved my learning efficiency and retention compared to my traditional study method. The structured breaks helped maintain focus and motivation, resulting in better immediate and delayed retention of information. Based on these results, I plan to continue using the Pomodoro Technique for future study sessions.
+
+---
+### Career/Employability/Learning Insights
+
+Adopting effective learning techniques like the Pomodoro Technique can significantly enhance my ability to acquire new skills and knowledge quickly. This is crucial in the fast-paced field of web development, where continuous learning and adaptation are essential
