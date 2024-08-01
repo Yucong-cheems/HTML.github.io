@@ -219,3 +219,64 @@ The Pomodoro Technique significantly improved my learning efficiency and retenti
 ### Career/Employability/Learning Insights
 
 Adopting effective learning techniques like the Pomodoro Technique can significantly enhance my ability to acquire new skills and knowledge quickly. This is crucial in the fast-paced field of web development, where continuous learning and adaptation are essential
+
+---
+
+
+### Week 9  
+
+### Learning Activities & Resources
+
+This week, I focused on learning CSS pre-processing with Sass and applying it to a new, simple website.
+
+Learning Resources:
+• Sass Essential Training
+https://www.linkedin.com/learning/sass-essential-training
+Practical: Sass & Group Project Work
+https://github.com/jcus-cms/subject/wiki/Calendar#pracs-7-10---group-project-work
+
+---
+### Estimated Hours
+
+I spent about 5 hours on this subject.
+
+---
+### Content Insights
+
+This week, I explored the capabilities of Sass (Syntactically Awesome Style Sheets), a powerful CSS pre-processor that allows for more efficient and maintainable stylesheets. The LinkedIn Learning course provided a thorough overview of Sass features, including variables, nesting, mixins, and inheritance.
+For the practical task, I created a simple website from scratch using Sass. The project involved setting up a workflow to automate the compilation of Sass into CSS, using tools like Gulp. This experience helped me understand how to streamline my CSS development process and maintain cleaner, more organized code.
+
+---
+### Career/Employability/Learning Insights
+
+Learning Sass has enhanced my CSS development skills, making my code more efficient and maintainable. Understanding how to use a CSS pre-processor is a valuable skill in the web development industry, as it allows for better organization and scalability of stylesheets. The ability to automate workflow with tools like Gulp further improves productivity and ensures that best practices are followed.
+
+---
+
+
+### Week 10  
+
+### Learning Activities & Resources
+
+This week, I focused on presentation for our group project.
+
+Learning Resources:
+Assignment document detailing presentation requirements.
+Presentation video outline.
+
+---
+### Estimated Hours
+
+I spent about 2 hours on this subject.
+
+---
+### Content Insights
+
+My role in the presentation was to discuss the workflow overview and our team's communication methods. Specifically, I explained how we used WhatsApp for quick updates, sharing links and files, and coordinating daily tasks. WhatsApp kept us online and responsive, ensuring that every member received the latest messages promptly. For more detailed discussions and brainstorming sessions, we used Discord, leveraging its voice channels and screen-sharing features.
+
+During the rehearsals, I focused on clearly conveying this information and ensuring that my part of the presentation fit within the allotted time. I recorded the video several times until the timing matched the requirements, using my phone to achieve clear sound and high video quality.
+
+---
+### Career/Employability/Learning Insights
+
+Practicing presentations is an essential skill in both academic and professional settings. It improves public speaking abilities, helps in organizing thoughts coherently, and enhances overall confidence. This experience taught me the importance of clear communication and teamwork. By effectively using tools like WhatsApp and Discord, our team maintained seamless communication and collaboration throughout the project, which is a valuable skill in any workplace.
